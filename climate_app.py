@@ -25,7 +25,7 @@ def home():
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/><br/>"
         f"Start date given:<br/>"
-        f"/api/v1.0/YYY-MM-DD<br/><br/>"
+        f"/api/v1.0/YYYY-MM-DD<br/><br/>"
         f"Sart and end dates<br/>"
         f"//api/v1.0/YYYY-MM-DD/YYYY-MM-DD"
         )

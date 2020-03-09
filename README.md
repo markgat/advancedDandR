@@ -28,9 +28,9 @@ Planning a trip to Hawaii? With this application, we use weather station data to
 Removing any ````\```` from the path if there is any whitespace.
 2) Next, run the python program "climate_app.py".
 3) A URL will be displayed from the returned results,
-````
- Running on http://127.0.0.1:5000/
-````
+    ````
+    Running on http://127.0.0.1:5000/
+    ````
 Open link to startup web application locally on web browser.  
 4) This will launch a local API for the weather data where you can make queries based on the URL extensions described on the homepage for dates 2010-01-01 to 2017-08-23.
 5) To close program, close the web page and press Ctrl + C in the terminal 

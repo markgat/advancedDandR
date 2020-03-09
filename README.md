@@ -25,7 +25,7 @@ Planning a trip to Hawaii? With this application, we use weather station data to
     # Windows alternative using raw string
     engine = create_engine(r'sqlite:///C:\path\to\foo.db')
     ````
-Removing any ````\```` from the path if there is any whitespace.
+    Removing any ````\```` from the path if there is any whitespace.
 2) Next, run the python program "climate_app.py".
 3) A URL will be displayed from the returned results,
     ````
